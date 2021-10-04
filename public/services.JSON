@@ -1,0 +1,56 @@
+[
+  {
+    "price": "$356.57",
+    "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(4).webp",
+    "title": "Web Devlopment",
+    "details": "Full Stack web deblopment with Netninja"
+  },
+  {
+    "price": "$211.43",
+    "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(2).webp",
+    "title": "UX/UI Design",
+    "details": "UI/UX design with Adobe XD with Anderson"
+  },
+  {
+    "price": "$217.64",
+    "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(8).webp",
+    "title": "Worpress Development",
+    "details": "Wordpress theme development from scratch with adobe xd."
+  },
+  {
+    "price": "$254.58",
+    "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(5).webp",
+    "title": "Photoshop",
+    "details": "Mobile App design step by step from beginner to advanced."
+  },
+    {
+      "price": "$354.08",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(1).webp",
+      "title": "Photography",
+      "details": "Learn all about theory of mobile photography in a week."
+    },
+    {
+      "price": "$119.51",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(6).webp",
+      "title": "UI/UX",
+      "details": "How to complete user research and make work flow."
+    },
+    {
+      "price": "$242.75",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(7).webp",
+      "title": "Spanish language",
+      "details": "Commitment to dedicated Support for learing language." 
+    },
+    {
+      "price": "$399.40",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(3).webp",
+      "title": "Web security",
+      "details": "Learn most advance technology for web security ."
+    },
+    {
+      "price": "$254.58",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(9).webp",
+      "title": "Art",
+      "details": "Kids artis courses from all beginning to advanced."
+    }
+  ]

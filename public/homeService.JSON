@@ -1,0 +1,26 @@
+[
+    {
+      "price": "$356.57",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(4).webp",
+      "title": "Web Devlopment",
+      "details": "Full Stack web deblopment with Netninja"
+    },
+    {
+      "price": "$211.43",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(2).webp",
+      "title": "UX/UI Design",
+      "details": "UI/UX design with Adobe XD with Anderson"
+    },
+    {
+      "price": "$217.64",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(8).webp",
+      "title": "Worpress Development",
+      "details": "Wordpress theme development from scratch"
+    },
+    {
+      "price": "$254.58",
+      "picture": "https://distracted-panini-fb795d.netlify.app/img/img%20(5).webp",
+      "title": "Photoshop",
+      "details": "Mobile App design step by step from beginner"
+    }
+  ]
